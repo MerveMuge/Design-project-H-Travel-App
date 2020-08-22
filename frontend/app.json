@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "H-Travel",
+    "description": "Hacettepe University Graduate Project",
+    "slug": "snack-92594efe-4f0f-4a2b-a752-fd7d35061398",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "2.1.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/icon.png",
+    "loading": {
+      "icon": "./assets/icons/icon.png",
+      "hideExponentText": false
+    },
+    "android": {
+      "package": "com.umpi.htravel",
+      "versionCode": 3
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
